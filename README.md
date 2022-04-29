@@ -18,7 +18,7 @@ git clone https://github.com/nicholas199090/african_numbers.git
 ``` bash
 composer install  
 ```
-
+Rinominare il file .env.example in .env ed aggiungere i dati per la connession al db
 Ora accedi alla cartella del progetto e genera la chiave segreta della tua applicazione con il comando:
 ``` bash
 php artisan key:generate   

@@ -62,4 +62,6 @@ Il numero per essere ritenuto valido deve:
 2) Essere di una lunghezza totale di 11 numeri
 3) Essere composto da soli numeri
 
-
+## File d'importazione
+Il file d'importazione utilizzato è il seguente:
+[File CSV](https://docs.google.com/spreadsheets/d/1G4tfC-cM1t3XOpCZrFWaGT205kZWBlgsCzKN3nwhp3c/edit?usp=sharing)
